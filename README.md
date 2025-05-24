@@ -1,4 +1,3 @@
-                     VITEZOMETRU BICICLETĂ CU ARDUINO  
 Acest proiect a fost realizat în cadrul workshop-ului de prototipare cu Arduino, Builders 101, și implementează un vitezometru pentru bicicletă folosind un Arduino,  
 un senzor Hall KY-003, un afișaj LCD 16×2, un RTC DS1302, un buzzer pasiv și butoane pentru interacțiune.  
 ![Untitled](https://github.com/user-attachments/assets/7267db31-6029-4fea-b97b-37e4a65dbf6c)  
